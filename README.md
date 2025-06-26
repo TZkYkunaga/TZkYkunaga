@@ -1,9 +1,13 @@
 # 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNP ENCOR](https://img.shields.io/badge/CCNP%20ENCOR-Cisco-005073?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-2E3A59?style=for-the-badge&logo=gnu-linux&logoColor=white)
+![PNETLab](https://img.shields.io/badge/PNETLab-Lab-FF5722?style=for-the-badge&logo=server&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0072C6?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TZkYkunaga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
